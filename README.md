@@ -1,0 +1,2 @@
+# mycoin
+auction coins
